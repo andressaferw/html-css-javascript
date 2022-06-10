@@ -1,0 +1,13 @@
+Operações básicas em Javascript
+
+* praticado no codepen.io/
+
+1. "Javascript".length + 2 * 8
+
+2. ("Javascript".length + 2) * 8
+
+3. (((5 + 1 * 4) - "JS".length) * 2) - 10
+
+4. 3.5 * 2.34 + ("Escola"[2] + "Javascript"[5]).length
+
+5. "Escola" + " " + "de" + "Javascript"[0] + "Javascript"[4]
