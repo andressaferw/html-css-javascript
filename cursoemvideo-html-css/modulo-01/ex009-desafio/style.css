@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(44, 43, 42);
+    font-size: 20px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;    
+    text-align: center;
+}
+
+.center{    
+    display: flex;
+    justify-content: center;    
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
